@@ -1,0 +1,6 @@
+{
+  "appId": "com.blank.app",
+  "appName": "BlankApp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
